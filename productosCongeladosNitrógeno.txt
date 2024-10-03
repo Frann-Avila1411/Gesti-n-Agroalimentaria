@@ -1,0 +1,5 @@
+Helado de Vainilla, 30-11-2023, 12345, 30-06-2023, Francia, -40.0,Inmersión en Nitrógeno líquido,60
+Guisantes, 20-11-2023, 24680, 20-06-2023, España, -35.0,Rociado con Nitrógeno,90
+Brochetas de Pollo, 15-12-2023, 35791, 15-07-2023, Tailandia, -38.0,Inmersión en nitrógeno líquido,75
+Pizza de Pepperoni, 10-11-2023, 46802, 10-06-2023, Italia, -42.0,Rociado con nitrógeno líquido,85
+Galletas de Chocolate, 05-12-2023, 57913, 05-07-2023, Estados Unidos, -36.0,Inmersión en nitrógeno líquido,70

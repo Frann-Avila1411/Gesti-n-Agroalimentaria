@@ -1,0 +1,5 @@
+Manzanas Gala, 20-10-2023, 54892, 10-10-2023, España
+Lechuga Iceberg, 18-10-2023,38761, 08-10-2023, Estados Unidos
+Limones Verdes, 22-10-2023, 65432, 12-10-2023, México
+Zanahorias Orgánicas, 12-10-2023, 23451, 07-10-2023, Francia
+Pimientos Rojos, 19-10-2023, 98765, 09-10-2023, Holanda

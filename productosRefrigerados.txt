@@ -1,0 +1,5 @@
+Yogur Natural, 15-10-2023, 13579, XY3456, 05-10-2023, 4.0, Grecia
+Pescado Salmón, 14-10-2023, 24680, AB1234, 04-10-2023, 2.0, Noruega
+Queso Cheddar, 16-10-2023, 35791, CD5678, 06-10-2023, 6.0, Reino Unido
+Huevos Frescos, 13-10-2023, 46802, EF7890, 03-10-2023, 5.0, Alemania
+Jamón, 20-10-2023, 57913, GH1234, 10-10-2023, 3.0, España
